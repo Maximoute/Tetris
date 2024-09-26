@@ -1,0 +1,21 @@
+Taille de la map : 10x22 cases
+
+Liste des tétriminos existants
+Appellation	Autres appellations	Construction
+Tétrimino I	« Bâton », « ordinaire », « barre », « long »	Quatre carrés alignés.
+Tétrimino O	« Carré », « bloc », « cube »	Méta-carré de 2x2.
+Tétrimino T	« Té »	Trois carrés en ligne et un carré sous le centre
+Tétrimino L	« L » , « lambda »	Trois carrés en ligne et un carré sous le côté gauche.
+Tétrimino J	« L inversé », « gamma »	Trois carrés en ligne et un carré sous le côté droit.
+Tétrimino Z	« Biais »	Méta-carré de 2x2, dont la rangée supérieure est glissée d'un pas vers la gauche.
+Tétrimino S	« Biais inversé »	Méta-carré de 2x2, dont la rangée supérieure est glissée d'un pas vers la droite.
+
+début
+strat map vide
+
+fin quand un block touche la 23eme ligne
+
+
+
+il y a une reserve
+
